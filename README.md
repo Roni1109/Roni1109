@@ -11,9 +11,10 @@ Subsequently I was recruited by a company in Sicily, for a Manual Tester Interns
 
 Since my internship I developed a passion for Frontend, which I started to study.I started with a course on HTML, CSS, JavaScript and React on Udemy. I am currently deepening my knowledge for the above mentioned and will start my adventure by creating a portfolio website.
 
-🔭 I’m currently working on Fiica Interiors & Applemob Design as Website Administrator
-🌱 I’m learning HTML, CSS, JavaScript, React
-📫 You can contact me at: rsolticzki@gmail.com
+
+<li>🔭 I’m currently working on Fiica Interiors & Applemob Design as Website Administrator</li>
+<li>🌱 I’m learning HTML, CSS, JavaScript, React</li>
+<li>📫 You can contact me at: rsolticzki@gmail.com</li>
 
 
 <!--
