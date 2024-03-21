@@ -2,7 +2,7 @@
 
 QA Manual Tester & Frontend Developer - JavaScript - React - HTML - CSS
 
-<h1>How did it all start?</h1>
+<h2>How did it all start?</h2>
 
 It all started with a Manual Testing course where we learned the basics of testing. I also learned the testing process and the steps to follow, I learned how to write test cases, test design, bug reports, SDLC.
 
